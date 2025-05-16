@@ -78,7 +78,3 @@ This **Intelligent Banking System** is a web application developed using **Strea
 * This application uses **MySQL** for storing predictions and segmentation results.
 * The database connection is secured using **SQLAlchemy with PyMySQL**.
 * The database credentials are stored securely using **Environment Variables (.env)**.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
